@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+--[[
+	class ${2:ClassName}:	
+		${3:}
+]]		
+local class = require "lang.class" 
+local super = ${1:nil}
+${2:ClassName}  = class( super )
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>class_lua</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

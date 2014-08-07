@@ -1,0 +1,1509 @@
+{
+	"folder_history":
+	[
+		"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/makelua",
+		"/home/kin/work/ude2/prj.r01x7/3_develop",
+		"/home/kin/work/ude/girl9/2_server/server_combine",
+		"/home/kin/work/ude/girl9/2_server",
+		"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts",
+		"/home/kin/work/ude2/prj.r01x7/3_develop/server"
+	],
+	"last_window_id": 13,
+	"settings":
+	{
+		"new_window_height": 878.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"mon",
+						"mongoCollo"
+					],
+					[
+						"print",
+						"printTable"
+					],
+					[
+						"bs",
+						"bstr"
+					],
+					[
+						"for",
+						"for	for i=1,10"
+					],
+					[
+						"Json",
+						"jsonRootPath"
+					],
+					[
+						"ITEM",
+						"ITEM_DEF_ID"
+					],
+					[
+						"cla",
+						"class_lua	lua_class"
+					],
+					[
+						"char",
+						"charData"
+					],
+					[
+						"key",
+						"keyValue"
+					],
+					[
+						"p",
+						"P2K"
+					],
+					[
+						"V",
+						"vAmount"
+					],
+					[
+						"v",
+						"vAmount"
+					],
+					[
+						"def",
+						"defId"
+					],
+					[
+						"json",
+						"jsonRootPath"
+					],
+					[
+						"Item",
+						"ItemMgr"
+					],
+					[
+						"item",
+						"itemDef"
+					],
+					[
+						"p3",
+						"p3Cmd"
+					],
+					[
+						"CLIENT",
+						"CLIENT_PARA_ACTION"
+					],
+					[
+						"fu",
+						"func"
+					],
+					[
+						"nu",
+						"nums"
+					],
+					[
+						"exp",
+						"expT"
+					],
+					[
+						"req",
+						"REQ_EXP"
+					],
+					[
+						"charD",
+						"charData"
+					],
+					[
+						"gfget",
+						"gfGetCharSysData"
+					],
+					[
+						"pro",
+						"produce"
+					],
+					[
+						"de",
+						"debug"
+					],
+					[
+						"pru",
+						"produce"
+					],
+					[
+						"PR",
+						"PRODUCE_ACT_GET"
+					],
+					[
+						"t",
+						"true"
+					],
+					[
+						"gf",
+						"gfCharSysData"
+					],
+					[
+						"on",
+						"OnReCalc"
+					],
+					[
+						"ex",
+						"expLeft"
+					],
+					[
+						"g",
+						"GainExp"
+					],
+					[
+						"fun",
+						"function	function"
+					],
+					[
+						"TODO",
+						"TODO_C	CTODO"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 285.0,
+				"selected_items":
+				[
+				],
+				"width": 392.0
+			},
+			"console":
+			{
+				"height": 0.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/model/ItemMgr.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/util/Util.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/util/JsonParser.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/_GVars.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/up/Up.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/OnLuaInit.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/util/Logger.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/mongol/bson.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/mongol/ll.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/mongol/object_id.lua",
+				"/home/kin/.config/sublime-text-2/Packages/User/lua_class.sublime-snippet",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/OnMapInit.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/model/Inventory.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/_GDefs.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/run.sh",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/main.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/client/scripts/games/data/cfg.lua",
+				"/home/kin/.config/sublime-text-2/Packages/User/line_dir.sublime-snippet",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/json/ItemDB.json",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/OnLoginInit.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/Router.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/json/proto2KeyName.json",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/client/scripts/proto/proto2KeyName.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/client/r/game02/cn/db/proto2KeyName.json",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/client/scripts/proto/proto2Cmds.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/client/scripts/proto/proto2ParseFuncTable.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/client/scripts/proto/proto2SendFuncs.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/client/scripts/proto/protoParse.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/model/Item.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/json/S1P1Req.json",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/client/scripts/system/MsgBox/logic_msgbox.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/json/S2P1Req.json",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/client/scripts/hpExt/hpExt.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/client/scripts/hpExt/hpExtenders.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/client/scripts/hpExt/util/Manager.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/up/UpSysData.lua",
+				"/home/kin/.config/sublime-text-2/Packages/User/luablock.sublime-snippet",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/goal/main.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/Up/main.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/util/bson.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/lang/table.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/proto2/proto2.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/lang/class.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/lang/string.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/code/src/map/ObjPC.h",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/code/src/map/ObjPC.cpp",
+				"/home/kin/.config/sublime-text-2/Packages/User/luatodo.sublime-snippet",
+				"/home/kin/.config/sublime-text-2/Packages/User/CTODO.sublime-snippet",
+				"/home/kin/.config/sublime-text-2/Packages/User/defKeyName.sublime-snippet",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/code/src/common/PersistenceDataDef.h",
+				"/home/kin/.xprofile"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts",
+					"/home/kin/work/ude2/prj.r01x7/3_develop/client",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"query",
+					"gfJsonLoadToVector",
+					"gfJsonTableToStructTable",
+					"JsonParser.ToStructList",
+					"gfJsonTableTo2DirArr",
+					"hashkeyName",
+					"idKey",
+					"JsonParser.ToStructTable",
+					"gfJsonTableToStructTable",
+					"gfJsonTableTo2DirArr",
+					"itemDef",
+					"allDef",
+					"itemDefOrg",
+					"gfGetCharSysData",
+					"needDKTrance",
+					"DK.",
+					"=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--",
+					"===========",
+					"==========",
+					"=========",
+					"========",
+					"=======",
+					"======",
+					"=====",
+					"====",
+					"===",
+					"==",
+					"===",
+					"==",
+					"-------------------------------------------------------------------",
+					"------------------------------------------------------------------",
+					"-----------------------------------------------------------------",
+					"----------------------------------------------------------------",
+					"---------------------------------------------------------------",
+					"--------------------------------------------------------------",
+					"-------------------------------------------------------------",
+					"------------------------------------------------------------",
+					"-----------------------------------------------------------",
+					"----------------------------------------------------------",
+					"---------------------------------------------------------",
+					"--------------------------------------------------------",
+					"-------------------------------------------------------",
+					"------------------------------------------------------",
+					"-----------------------------------------------------",
+					"----------------------------------------------------",
+					"---------------------------------------------------",
+					"--------------------------------------------------",
+					"-------------------------------------------------",
+					"------------------------------------------------",
+					"-----------------------------------------------",
+					"----------------------------------------------",
+					"---------------------------------------------",
+					"--------------------------------------------",
+					"-------------------------------------------",
+					"------------------------------------------",
+					"-----------------------------------------",
+					"----------------------------------------",
+					"---------------------------------------",
+					"--------------------------------------",
+					"-------------------------------------",
+					"------------------------------------",
+					"-----------------------------------",
+					"----------------------------------",
+					"---------------------------------",
+					"--------------------------------",
+					"-------------------------------",
+					"------------------------------",
+					"-----------------------------",
+					"----------------------------",
+					"---------------------------",
+					"--------------------------",
+					"-------------------------",
+					"------------------------",
+					"-----------------------",
+					"----------------------",
+					"---------------------",
+					"--------------------",
+					"-------------------",
+					"------------------",
+					"-----------------",
+					"----------------",
+					"---------------",
+					"--------------",
+					"-------------",
+					"------------",
+					"-----------",
+					"----------",
+					"---------",
+					"--------",
+					"-------",
+					"------",
+					"-----",
+					"----",
+					"---",
+					"--",
+					"----------",
+					"---------",
+					"--------",
+					"-------",
+					"------",
+					"-----",
+					"----",
+					"---",
+					"charid",
+					"defId",
+					"charid",
+					"amount",
+					"item[ DK.ITEM_DEF_ID ]",
+					"ITEM_NAME",
+					"DK.",
+					"ITEM_ID",
+					"bsonT",
+					"D",
+					"data",
+					"Up.produce(",
+					"produce",
+					"keyOrg",
+					"REQ_IDX.EXP",
+					"REQ_EXP",
+					"locla",
+					"	",
+					"table.insert(t",
+					"getStr",
+					"posBegin",
+					"local",
+					"readIdList",
+					"splite",
+					"			elseif types[i] == \"S\" then\n				table.insert(t, vv)"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"_"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": true,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"onluain",
+						"server/run/cn/scripts/OnLuaInit.lua"
+					],
+					[
+						"object_id",
+						"server/run/cn/scripts/mongol/object_id.lua"
+					],
+					[
+						"skillmgr.",
+						"server/run/cn/scripts/model/SkillMgr.lua"
+					],
+					[
+						"itemmgr",
+						"server/run/cn/scripts/model/ItemMgr.lua"
+					],
+					[
+						"uplua",
+						"server/run/cn/scripts/up/Up.lua"
+					],
+					[
+						"logger",
+						"server/run/cn/scripts/util/Logger.lua"
+					],
+					[
+						"inv",
+						"server/run/cn/scripts/model/Inventory.lua"
+					],
+					[
+						"itemmg",
+						"server/run/cn/scripts/model/ItemMgr.lua"
+					],
+					[
+						"cfg.lua",
+						"client/scripts/games/data/cfg.lua"
+					],
+					[
+						"invent",
+						"server/run/cn/scripts/model/Inventory.lua"
+					],
+					[
+						"questdb.",
+						"run/cn/json/QuestDB.json"
+					],
+					[
+						"objpc.h",
+						"code/src/map/ObjPC.h"
+					],
+					[
+						"objpc",
+						"code/src/map/ObjPC.cpp"
+					],
+					[
+						"per",
+						"code/src/common/PersistenceDataDef.h"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 261.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 1415.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"va",
+						"value"
+					],
+					[
+						"type",
+						"types"
+					],
+					[
+						"str",
+						"strValue"
+					],
+					[
+						"FI",
+						"fileName"
+					],
+					[
+						"pro",
+						"PRODUCE_ACT_GET"
+					],
+					[
+						"CLI",
+						"CLIENT_PARA_ACTION"
+					],
+					[
+						"for",
+						"forp	for k,v in pairs()"
+					],
+					[
+						"cond",
+						"condStr"
+					],
+					[
+						"mon",
+						"mongoCollo"
+					],
+					[
+						"print",
+						"printTable"
+					],
+					[
+						"bs",
+						"bstr"
+					],
+					[
+						"Json",
+						"jsonRootPath"
+					],
+					[
+						"ITEM",
+						"ITEM_DEF_ID"
+					],
+					[
+						"cla",
+						"class_lua	lua_class"
+					],
+					[
+						"char",
+						"charData"
+					],
+					[
+						"key",
+						"keyValue"
+					],
+					[
+						"p",
+						"P2K"
+					],
+					[
+						"V",
+						"vAmount"
+					],
+					[
+						"v",
+						"vAmount"
+					],
+					[
+						"def",
+						"defId"
+					],
+					[
+						"json",
+						"jsonRootPath"
+					],
+					[
+						"Item",
+						"ItemMgr"
+					],
+					[
+						"item",
+						"itemDef"
+					],
+					[
+						"p3",
+						"p3Cmd"
+					],
+					[
+						"CLIENT",
+						"CLIENT_PARA_ACTION"
+					],
+					[
+						"fu",
+						"func"
+					],
+					[
+						"nu",
+						"nums"
+					],
+					[
+						"exp",
+						"expT"
+					],
+					[
+						"req",
+						"REQ_EXP"
+					],
+					[
+						"charD",
+						"charData"
+					],
+					[
+						"gfget",
+						"gfGetCharSysData"
+					],
+					[
+						"de",
+						"debug"
+					],
+					[
+						"pru",
+						"produce"
+					],
+					[
+						"PR",
+						"PRODUCE_ACT_GET"
+					],
+					[
+						"t",
+						"true"
+					],
+					[
+						"gf",
+						"gfCharSysData"
+					],
+					[
+						"on",
+						"OnReCalc"
+					],
+					[
+						"ex",
+						"expLeft"
+					],
+					[
+						"g",
+						"GainExp"
+					],
+					[
+						"fun",
+						"function	function"
+					],
+					[
+						"TODO",
+						"TODO_C	CTODO"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/model/SkillMgr.lua",
+					"settings":
+					{
+						"buffer_size": 668,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/mongol/object_id.lua",
+					"settings":
+					{
+						"buffer_size": 1693,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/model/TextMgr.lua",
+					"settings":
+					{
+						"buffer_size": 600,
+						"line_ending": "Unix",
+						"name": "TextMgr.lua"
+					}
+				},
+				{
+					"file": "/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/OnLuaInit.lua",
+					"settings":
+					{
+						"buffer_size": 3081,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/_GVars.lua",
+					"settings":
+					{
+						"buffer_size": 2322,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/Router.lua",
+					"settings":
+					{
+						"buffer_size": 1201,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/up/Up.lua",
+					"settings":
+					{
+						"buffer_size": 13247,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/kin/.config/sublime-text-2/Packages/User/line_dir.sublime-snippet",
+					"settings":
+					{
+						"buffer_size": 350,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/kin/.ssh/config",
+					"settings":
+					{
+						"buffer_size": 464,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/json/TextDB.json",
+					"settings":
+					{
+						"buffer_size": 1548,
+						"line_ending": "CR"
+					}
+				},
+				{
+					"file": "/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/util/JsonParser.lua",
+					"settings":
+					{
+						"buffer_size": 3608,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/util/Util.lua",
+					"settings":
+					{
+						"buffer_size": 434,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 348.0,
+				"selected_items":
+				[
+				],
+				"width": 392.0
+			},
+			"console":
+			{
+				"height": 0.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/kin/work/ude2/prj.r01x7/.gitignore",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/model/ItemMgr.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/util/Util.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/util/JsonParser.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/_GVars.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/up/Up.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/OnLuaInit.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/util/Logger.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/mongol/bson.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/mongol/ll.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/mongol/object_id.lua",
+				"/home/kin/.config/sublime-text-2/Packages/User/lua_class.sublime-snippet",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/OnMapInit.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/model/Inventory.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/_GDefs.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/run.sh",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/main.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/client/scripts/games/data/cfg.lua",
+				"/home/kin/.config/sublime-text-2/Packages/User/line_dir.sublime-snippet",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/json/ItemDB.json",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/OnLoginInit.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/Router.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/json/proto2KeyName.json",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/client/scripts/proto/proto2KeyName.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/client/r/game02/cn/db/proto2KeyName.json",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/client/scripts/proto/proto2Cmds.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/client/scripts/proto/proto2ParseFuncTable.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/client/scripts/proto/proto2SendFuncs.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/client/scripts/proto/protoParse.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/model/Item.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/json/S1P1Req.json",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/client/scripts/system/MsgBox/logic_msgbox.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/json/S2P1Req.json",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/client/scripts/hpExt/hpExt.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/client/scripts/hpExt/hpExtenders.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/client/scripts/hpExt/util/Manager.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/up/UpSysData.lua",
+				"/home/kin/.config/sublime-text-2/Packages/User/luablock.sublime-snippet",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/goal/main.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/Up/main.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/util/bson.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/lang/table.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/proto2/proto2.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/lang/class.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/lang/string.lua",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/code/src/map/ObjPC.h",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/code/src/map/ObjPC.cpp",
+				"/home/kin/.config/sublime-text-2/Packages/User/luatodo.sublime-snippet",
+				"/home/kin/.config/sublime-text-2/Packages/User/CTODO.sublime-snippet",
+				"/home/kin/.config/sublime-text-2/Packages/User/defKeyName.sublime-snippet",
+				"/home/kin/work/ude2/prj.r01x7/3_develop/server/code/src/common/PersistenceDataDef.h",
+				"/home/kin/.xprofile"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts",
+					"/home/kin/work/ude2/prj.r01x7/3_develop/client",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"parseFunc",
+					"	local errInfo = nil\n",
+					"vv",
+					"types[i]",
+					"produceActFuncs",
+					"clientAction",
+					"	-- [\"up/reset\"] 	= levelup, -- 养成/升级相关处理\n",
+					"send",
+					"Send",
+					"MongoAsyncTest",
+					"query",
+					"gfJsonLoadToVector",
+					"gfJsonTableToStructTable",
+					"JsonParser.ToStructList",
+					"gfJsonTableTo2DirArr",
+					"hashkeyName",
+					"idKey",
+					"JsonParser.ToStructTable",
+					"gfJsonTableToStructTable",
+					"gfJsonTableTo2DirArr",
+					"itemDef",
+					"allDef",
+					"itemDefOrg",
+					"gfGetCharSysData",
+					"needDKTrance",
+					"DK.",
+					"=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--",
+					"===========",
+					"==========",
+					"=========",
+					"========",
+					"=======",
+					"======",
+					"=====",
+					"====",
+					"===",
+					"==",
+					"===",
+					"==",
+					"-------------------------------------------------------------------",
+					"------------------------------------------------------------------",
+					"-----------------------------------------------------------------",
+					"----------------------------------------------------------------",
+					"---------------------------------------------------------------",
+					"--------------------------------------------------------------",
+					"-------------------------------------------------------------",
+					"------------------------------------------------------------",
+					"-----------------------------------------------------------",
+					"----------------------------------------------------------",
+					"---------------------------------------------------------",
+					"--------------------------------------------------------",
+					"-------------------------------------------------------",
+					"------------------------------------------------------",
+					"-----------------------------------------------------",
+					"----------------------------------------------------",
+					"---------------------------------------------------",
+					"--------------------------------------------------",
+					"-------------------------------------------------",
+					"------------------------------------------------",
+					"-----------------------------------------------",
+					"----------------------------------------------",
+					"---------------------------------------------",
+					"--------------------------------------------",
+					"-------------------------------------------",
+					"------------------------------------------",
+					"-----------------------------------------",
+					"----------------------------------------",
+					"---------------------------------------",
+					"--------------------------------------",
+					"-------------------------------------",
+					"------------------------------------",
+					"-----------------------------------",
+					"----------------------------------",
+					"---------------------------------",
+					"--------------------------------",
+					"-------------------------------",
+					"------------------------------",
+					"-----------------------------",
+					"----------------------------",
+					"---------------------------",
+					"--------------------------",
+					"-------------------------",
+					"------------------------",
+					"-----------------------",
+					"----------------------",
+					"---------------------",
+					"--------------------",
+					"-------------------",
+					"------------------",
+					"-----------------",
+					"----------------",
+					"---------------",
+					"--------------",
+					"-------------",
+					"------------",
+					"-----------",
+					"----------",
+					"---------",
+					"--------",
+					"-------",
+					"------",
+					"-----",
+					"----",
+					"---",
+					"--",
+					"----------",
+					"---------",
+					"--------",
+					"-------",
+					"------",
+					"-----",
+					"----",
+					"---",
+					"charid",
+					"defId",
+					"charid",
+					"amount",
+					"item[ DK.ITEM_DEF_ID ]",
+					"ITEM_NAME",
+					"DK.",
+					"ITEM_ID",
+					"bsonT",
+					"D",
+					"data",
+					"Up.produce(",
+					"produce",
+					"keyOrg",
+					"REQ_IDX.EXP"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"_"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/kin/work/ude2/prj.r01x7/3_develop"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 8,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/model/SkillMgr.lua",
+							"settings":
+							{
+								"buffer_size": 668,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										240,
+										240
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Lua/Lua.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/mongol/object_id.lua",
+							"settings":
+							{
+								"buffer_size": 1693,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										622,
+										622
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Lua/Lua.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/model/TextMgr.lua",
+							"settings":
+							{
+								"buffer_size": 600,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										403,
+										403
+									]
+								],
+								"settings":
+								{
+									"auto_name": "TextMgr.lua",
+									"syntax": "Packages/Lua/Lua.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/OnLuaInit.lua",
+							"settings":
+							{
+								"buffer_size": 3081,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1820,
+										1820
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Lua/Lua.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 450.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/_GVars.lua",
+							"settings":
+							{
+								"buffer_size": 2322,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1309,
+										1309
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Lua/Lua.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 720.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/Router.lua",
+							"settings":
+							{
+								"buffer_size": 1201,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										147,
+										147
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Lua/Lua.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/up/Up.lua",
+							"settings":
+							{
+								"buffer_size": 13247,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2755,
+										2755
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Lua/Lua.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 1620.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/home/kin/.config/sublime-text-2/Packages/User/line_dir.sublime-snippet",
+							"settings":
+							{
+								"buffer_size": 350,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										349,
+										349
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/XML/XML.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/home/kin/.ssh/config",
+							"settings":
+							{
+								"buffer_size": 464,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										412,
+										412
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/json/TextDB.json",
+							"settings":
+							{
+								"buffer_size": 1548,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										390,
+										390
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/util/JsonParser.lua",
+							"settings":
+							{
+								"buffer_size": 3608,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										385,
+										385
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Lua/Lua.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 90.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"file": "/home/kin/work/ude2/prj.r01x7/3_develop/server/run/cn/scripts/util/Util.lua",
+							"settings":
+							{
+								"buffer_size": 434,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										434,
+										434
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Lua/Lua.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "0,1,0,0,0,0,0,0,0,1440,900",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"up.",
+						"server/run/cn/scripts/up/Up.lua"
+					],
+					[
+						"jsonpaer",
+						"server/run/cn/scripts/util/JsonParser.lua"
+					],
+					[
+						"up.lua",
+						"server/run/cn/scripts/up/Up.lua"
+					],
+					[
+						"router",
+						"server/run/cn/scripts/Router.lua"
+					],
+					[
+						"onluain",
+						"server/run/cn/scripts/OnLuaInit.lua"
+					],
+					[
+						"object_id",
+						"server/run/cn/scripts/mongol/object_id.lua"
+					],
+					[
+						"skillmgr.",
+						"server/run/cn/scripts/model/SkillMgr.lua"
+					],
+					[
+						"itemmgr",
+						"server/run/cn/scripts/model/ItemMgr.lua"
+					],
+					[
+						"uplua",
+						"server/run/cn/scripts/up/Up.lua"
+					],
+					[
+						"logger",
+						"server/run/cn/scripts/util/Logger.lua"
+					],
+					[
+						"inv",
+						"server/run/cn/scripts/model/Inventory.lua"
+					],
+					[
+						"itemmg",
+						"server/run/cn/scripts/model/ItemMgr.lua"
+					],
+					[
+						"cfg.lua",
+						"client/scripts/games/data/cfg.lua"
+					],
+					[
+						"invent",
+						"server/run/cn/scripts/model/Inventory.lua"
+					],
+					[
+						"questdb.",
+						"run/cn/json/QuestDB.json"
+					],
+					[
+						"objpc.h",
+						"code/src/map/ObjPC.h"
+					],
+					[
+						"objpc",
+						"code/src/map/ObjPC.cpp"
+					],
+					[
+						"per",
+						"code/src/common/PersistenceDataDef.h"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 261.0,
+			"status_bar_visible": true,
+			"window_id": 11,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
